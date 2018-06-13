@@ -1,2 +1,2 @@
 #!/bin/bashls
-/tmp/iamafile  file iamafile
+file -b /tmp/imafile
