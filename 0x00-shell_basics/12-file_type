@@ -1,2 +1,2 @@
 #!/bin/bashls
-file -b /tmp/imafile
+eco/tmp/imafile
