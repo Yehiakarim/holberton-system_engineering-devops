@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth 1 -type d | wc -l
+cut -d : -f 1,6 /etc/passwd
