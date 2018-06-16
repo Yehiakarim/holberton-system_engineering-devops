@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -LR | rm -rf *.jr
+ls -lR | rm -rf *.jr
