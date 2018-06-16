@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u 13-unique
+uniq -u
